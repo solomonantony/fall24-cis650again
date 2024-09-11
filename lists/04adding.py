@@ -10,6 +10,7 @@ print('unpacks Python and appends to letters1', letters1 + list("Python")) #unpa
 print('appends a copy of letters1 to letters1',letters1*2) # appends a copy of letters1 to letters1
 letters1.append('a1') #appends 'a1' to letters
 letters1.insert(0,123)
+print('insert a1 at the end of letters1', letters1)
 print('insert 123 at 0', letters1) #insert 123 at 0
 c + c
 c.extend(['xx', 'yy'])
