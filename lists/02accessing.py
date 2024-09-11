@@ -9,3 +9,6 @@ print(number1, number2, number3)
 print('Iterate through a list using for loop')
 for i in range(len(c)):
     print(c[i])
+print('hi')
+
+
